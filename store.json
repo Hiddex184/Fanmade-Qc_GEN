@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "name": "Benim Mağazam",
+    "version": "1.0",
+    "author": "sen"
+  },
+  "apps": [
+    {
+      "name": "Qc generator v6.0",
+      "version": "v1.0.0",
+      "type": "exe",
+      "source": "store",
+      "file": "qcgenerator6test.exe",
+      "url": "https://github.com/Hiddex184/Fanmade-Qc_GEN/releases/download/v1.0.0/qcgenerator6test.exe",
+      "size": 2097152,
+      "description": "“This is an improved and fan-made version of QC Gen. The application includes features such as changing the background color, switching languages, defining bones, and things like VTA and similar tools. This is a fan-made version of QC Gen"
+    },
+    {
+      "name": "Python Script Aracım",
+      "version": "v0.5",
+      "type": "python",
+      "source": "store",
+      "file": "aracim.py",
+      "url": "https://raw.githubusercontent.com/KULLANICI/REPO/main/aracim.py",
+      "size": 4096,
+      "description": "Faydalı bir Python scripti."
+    }
+  ]
+}
