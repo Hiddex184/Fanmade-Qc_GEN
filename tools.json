@@ -1,0 +1,14 @@
+[
+  {
+    "id": "pdf-converter",
+    "name": "PDF Converter",
+    "description": "Convert PDF files to Word, Excel, or images with ease.",
+    "category": "Documents",
+    "type": "exe",
+    "version": "1.2.0",
+    "icon": "https://raw.githubusercontent.com/OWNER/REPO/main/icons/pdf.png",
+    "download": "https://github.com/OWNER/REPO/releases/download/v1.2.0/pdf-converter.exe",
+    "args": [],
+    "tags": ["pdf", "convert", "word", "excel"]
+  }
+]
