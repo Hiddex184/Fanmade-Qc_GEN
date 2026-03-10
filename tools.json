@@ -6,7 +6,7 @@
     "category": "Tools",
     "type": "exe",
     "version": "6.0.0",
-    "icon": "https://raw.githubusercontent.com/Hiddex184/Fanmade-Qc_GEN/main/icon/q_icon.ico",
+    "icon": "https://raw.githubusercontent.com/Hiddex184/Fanmade-Qc_GEN/main/icon/q.png",
     "download": "https://github.com/Hiddex184/Fanmade-Qc_GEN/raw/main/qcgenerator6test.exe",
     "args": [],
     "tags": ["source-engine", "modding", "qc"]
