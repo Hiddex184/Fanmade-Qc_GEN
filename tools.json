@@ -1,11 +1,11 @@
 [
   {
-    "id": "qc-generator",
-    "name": "QC Generator v6",
-    "description": "Fan-made QC Gen. VTA araçları, dil desteği, arka plan rengi.",
+    "id": "Fanmade_QCGENERATOR",
+    "name": "QC Generator v6.2",
+    "description": "This is an improved and fan-made version of QC Gen. The application includes features such as changing the background color, switching languages, defining bones, and things like VTA and similar tools. This is a fan-made version of QC Gen.",
     "category": "Tools",
     "type": "exe",
-    "version": "6.0.0",
+    "version": "6.2",
     "icon": "https://raw.githubusercontent.com/Hiddex184/Fanmade-Qc_GEN/main/icon/q.png",
     "download": "https://github.com/Hiddex184/Fanmade-Qc_GEN/raw/main/qcgenerator6test.exe",
     "args": [],
