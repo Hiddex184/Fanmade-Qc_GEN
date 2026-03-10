@@ -9,7 +9,12 @@
     "icon": "https://raw.githubusercontent.com/Hiddex184/Fanmade-Qc_GEN/main/icon/q.png",
     "download": "https://github.com/Hiddex184/Fanmade-Qc_GEN/releases/download/v6.2/Fanmade_QC_GENERATOR.exe",
     "args": [],
-    "tags": ["source-engine", "modding", "qc"]
+    "tags": ["source-engine", "modding", "qc"],
+    "preview": [
+      "https://raw.githubusercontent.com/Hiddex184/Fanmade-Qc_GEN/main/screenshots/qcgenerator1.png",
+      "https://raw.githubusercontent.com/Hiddex184/Fanmade-Qc_GEN/main/screenshots/qcgenerator2.png",
+      "https://raw.githubusercontent.com/Hiddex184/Fanmade-Qc_GEN/main/screenshots/qcgenerator3.png"
+    ]
   },
   {
     "id": "filmmakergui3_7",
@@ -23,10 +28,4 @@
     "args": [],
     "tags": ["script Filmmakergui", "source-engine", "sfm", "Filmmaker"]
   }
-]
-
-"preview": [
-  "https://raw.githubusercontent.com/Hiddex184/Fanmade-Qc_GEN/main/screenshots/qcgenerator1.png",
-  "https://raw.githubusercontent.com/Hiddex184/Fanmade-Qc_GEN/main/screenshots/qcgenerator2.png",
-  "https://raw.githubusercontent.com/Hiddex184/Fanmade-Qc_GEN/main/screenshots/qcgenerator3.png"
 ]
