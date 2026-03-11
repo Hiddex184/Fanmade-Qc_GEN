@@ -8,13 +8,13 @@
     "version": "6.2",
     "icon": "https://raw.githubusercontent.com/Hiddex184/Fanmade-Qc_GEN/main/icon/q.png",
     "download": "https://github.com/Hiddex184/Fanmade-Qc_GEN/releases/download/v6.2/Fanmade_QC_GENERATOR.exe",
-    "args": [],
-    "tags": ["source-engine", "modding", "qc"],
     "preview": [
       "https://raw.githubusercontent.com/Hiddex184/Fanmade-Qc_GEN/main/screenshots/qcgenerator.png",
       "https://raw.githubusercontent.com/Hiddex184/Fanmade-Qc_GEN/main/screenshots/qcgenerator2.png",
       "https://raw.githubusercontent.com/Hiddex184/Fanmade-Qc_GEN/main/screenshots/qcgenerator3.png"
-    ]
+    ],
+    "args": [],
+    "tags": ["source-engine", "modding", "qc"]
   },
   {
     "id": "filmmakergui3_7",
@@ -25,6 +25,12 @@
     "version": "3.7",
     "icon": "https://raw.githubusercontent.com/Hiddex184/Filmmaker-Gui-3.7/main/icon/fmg_logo.png",
     "download": "https://github.com/Hiddex184/Filmmaker-Gui-3.7/releases/download/3.7/filmmakergui3_7.py",
+    "preview": [
+      "https://raw.githubusercontent.com/Hiddex184/Fanmade-Qc_GEN/main/screenshots/guide.png",
+      "https://raw.githubusercontent.com/Hiddex184/Fanmade-Qc_GEN/main/screenshots/Texturechecker.png",
+      "https://raw.githubusercontent.com/Hiddex184/Fanmade-Qc_GEN/main/screenshots/filmmakergui371.png",
+      "https://raw.githubusercontent.com/Hiddex184/Fanmade-Qc_GEN/main/screenshots/filmmaker37.png"
+    ],
     "args": [],
     "tags": ["script Filmmakergui", "source-engine", "sfm", "Filmmaker"]
   }
