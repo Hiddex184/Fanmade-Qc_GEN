@@ -22,6 +22,7 @@
     "description": "Comprehensive SFM script— fog, skybox, light limit patch, auto lip sync, VMT editor, texture checker, RAM/FPS boost, overlay system & more. 12 languages supported. Runs directly inside Source Filmmaker.",
     "category": "Scripts",
     "type": "py",
+    "version": "3.7",
     "icon": "https://raw.githubusercontent.com/Hiddex184/Filmmaker-Gui-3.7/main/icon/fmg_logo.png",
     "download": "https://github.com/Hiddex184/Filmmaker-Gui-3.7/releases/download/3.7/filmmakergui3_7.py",
     "preview": [
